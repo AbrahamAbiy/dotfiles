@@ -101,9 +101,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-#start venv
-source "/home/abe/virtualenv/newvenv/bin/activate"
-
 #env variable
 export GOOGLE_APPLICATION_CREDENTIALS="/home/abe/infect-testing.json"
 
